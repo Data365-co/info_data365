@@ -26,7 +26,6 @@ What data you can extract with Data365 API
 [Try Data365 API →](https://data365.co)
 
 **What data you can extract with Data365 API**
-
 20+ data types, including the following information:
 
 ![image](https://github.com/user-attachments/assets/a6c3415e-7201-4f1c-8744-ad2621996dd7)

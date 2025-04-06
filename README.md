@@ -7,7 +7,7 @@ What data you can extract with Data365 API
 
 What we deliver:
 
-Multi-platform coverage
+**Multi-platform coverage**
 Access to multiple social networks through a single, unified service, eliminates the need for juggling various tools.
 Real-time monitoring
 No pre-extracted or cached data. Every request pulls fresh, real-time data, ensuring no delays or outdated information. You define what to extract and how often.

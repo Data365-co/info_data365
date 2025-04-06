@@ -61,6 +61,43 @@ What data you can extract with Data365 API
 
 If you're interested in testing the service, we’d be happy to schedule a short call to discuss your use case and ensure a smooth onboarding process.
 
+## How does Data365 API work?
+
+### Step-by-step guide
+
+**01**  
+Contact us and [**Book a call**](#)
+
+---
+
+**02**  
+Tell us more about your needs and how you plan to use our API. We’ll gladly let you know if our solution is the right fit — and will offer you a free trial so you can test everything firsthand.
+
+---
+
+**03**  
+Get access to our comprehensive API documentation and your API Key. It provides detailed information on the **available** endpoints, request parameters, and response formats.
+
+---
+
+**04**  
+Set up your preferred development environment. You can use tools like Postman for testing API requests or integrate directly into your application using programming languages like Python, JavaScript, or others.
+
+---
+
+**05**  
+Include your API Key in your HTTP request. This step ensures that your requests are authenticated and authorized.
+
+---
+
+**06**  
+**Make Your First API Request**  
+- **Choose an Endpoint**: Decide which data you want to retrieve. For example, to get user profile information, choose the relevant endpoint from the documentation.  
+- **Apply query parameters** to filter and sort the data according to your needs.  
+- **Send Requests**: Use three steps of `POST` / `GET` / `GET` described above.  
+- **Handle the Response**: The API will return a JSON response containing the requested data.
+
+
 How does Data365 API work?
 Step-by-step guide
 

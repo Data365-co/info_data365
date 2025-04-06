@@ -29,7 +29,9 @@ What data you can extract with Data365 API
 
 20+ data types, including the following information:
 
-![image](https://github.com/user-attachments/assets/a6c3415e-7201-4f1c-8744-ad2621996dd7)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a6c3415e-7201-4f1c-8744-ad2621996dd7" alt="image" />
+</p>
 
 **How the API Works – 3 Simple Steps**
 

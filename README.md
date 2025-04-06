@@ -33,6 +33,27 @@ What data you can extract with Data365 API
 
 **How the API Works – 3 Simple Steps**
 
+**How the API Works – 3 Simple Steps**
+
+1. **Initiate Data Collection**  
+   Send a **POST request** to trigger data collection for the requested profile. This step starts the update process in the system.  
+   `POST [API_Domain]/v1.1/tiktok/profile/username_example/update?&access_token`
+
+2. **Check Update Status**  
+   Send a **GET request** to check the update status. The possible statuses include:  
+   **Created** – The request is queued.  
+   **Pending** – The data is being collected.  
+   **Finished** – The update is complete, and the data is ready.  
+   **Fail** – The data could not be collected (e.g., the profile does not exist or is not publicly available).  
+   **Canceled** – Запит був відмінений  
+   **Unknown** – The POST request to initiate the update was not received or not accepted.  
+   `GET [API_Domain]/v1.1/tiktok/profile/username_example/update?&access_token`
+
+3. **Retrieve Updated Profile Data**  
+   Once the update is finished, send a **GET request** to retrieve the latest profile data collected from the platform.
+
+
+
 Initiate Data Collection
 
 Send a POST request to trigger data collection for the requested profile. This step starts the update process in the system.

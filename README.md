@@ -49,8 +49,8 @@ What data you can extract with Data365 API
 
 3. **Retrieve Updated Profile Data**  
    Once the update is finished, send a **GET request** to retrieve the latest profile data collected from the platform.
+   `GET [API_Domain]/v1.1/tiktok/profile/username_example?access_token`
 
-GET [API_Domain]/v1.1/tiktok/profile/username_example?access_token
 
 ![image](https://github.com/user-attachments/assets/77847f0a-6d20-492e-a617-86ee6b66c8e7)
 

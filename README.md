@@ -97,51 +97,27 @@ Include your API Key in your HTTP request. This step ensures that your requests 
 - **Send Requests**: Use three steps of `POST` / `GET` / `GET` described above.  
 - **Handle the Response**: The API will return a JSON response containing the requested data.
 
+### **Data365’s API powers applications across multiple sectors**
 
-How does Data365 API work?
-Step-by-step guide
+- **Cybersecurity firms** – Monitor online threats & brand reputation;
+- **AI & Machine Learning Companies** – Train models using real-world social data;
+- **Marketing Teams & Agencies** – Track brand mentions & campaign performance;
+- **Developers & Researchers** – Collect structured data for further analysis.
 
-01
-Contact us and Book a call
+### **Trusted by 200+ clients**
 
-02
-Tell us more about your needs and how you plan to use our API. We’ll gladly let you know if our solution is the right fit — and will offer you a free trial so you can test everything firsthand.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/954894d4-c693-4d51-8a26-caa7f43b4e11" alt="image" />
+</p>
 
+[Start Using Data365 API →](https://data365.co/contact)
 
-03
-Get access to our comprehensive API documentation and your API Key. It provides detailed information on the available endpoints, request parameters, and response formats.
+### Contact & Support
 
+📧 [contacts@data365.co](mailto:contacts@data365.co)  
+🌍 [Website](https://data365.co)  
+🔗 [Book the call](https://data365.co/contact)
 
-04
-Set up your preferred development environment. You can use tools like Postman for testing API requests or integrate directly into your application using programming languages like Python, JavaScript, or others.
-
-
-05
-Include your API Key in your HTTP request. This step ensures that your requests are authenticated and authorized.
-06
-Make Your First API Request
-
-
-Choose an Endpoint: Decide which data you want to retrieve. For example, to get user profile information, choose the relevant endpoint from the documentation.
-Apply query parameters to filter and sort the data according to your needs.
-Send Requests: Use three steps of POST/GET/GET described above. 
-Handle the Response: The API will return a JSON response containing the requested data.
-Data365's API powers applications across multiple sectors
-Cybersecurity firms – Monitor online threats & brand reputation;
-AI & Machine Learning Companies – Train models using real-world social data;
-Marketing Teams & Agencies – Track brand mentions & campaign performance;
-Developers & Researchers – Collect structured data for further analysis.
-
-Trusted by 200+ clients
-
-![image](https://github.com/user-attachments/assets/954894d4-c693-4d51-8a26-caa7f43b4e11)
-
-Start Using Data365 API →
-
-Contact & Support
-📧 contacts@data365.co
-🌍 Website
-🔗Book the call  
 
 
 

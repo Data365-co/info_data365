@@ -23,7 +23,7 @@ What data you can extract with Data365 API
   Our standardized API structure allows for quick and seamless implementation. We're ready to customize and help you fine-tune requests to match your specific business needs — making your development cycle as smooth and comfortable as possible.
 
 
-Try Data365 API →
+[Try Data365 API →](https://data365.co)
 
 What data you can extract with Data365 API
 20+ data types, including the following information:

@@ -54,7 +54,7 @@ What data you can extract with Data365 API
 
 ![image](https://github.com/user-attachments/assets/77847f0a-6d20-492e-a617-86ee6b66c8e7)
 
-Specific API endpoints will be provided after finalizing the details and completing client validation.
+**Specific API endpoints will be provided after finalizing the details and completing client validation.**
 
 If you're interested in testing the service, we’d be happy to schedule a short call to discuss your use case and ensure a smooth onboarding process.
 

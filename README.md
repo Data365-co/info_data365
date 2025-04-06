@@ -5,9 +5,10 @@ What data you can extract with Data365 API
   <img src="https://github.com/user-attachments/assets/30df924c-a66b-48a2-9015-c9824f45a139" alt="image" />
 </p>
 
-What we deliver:
+**What we deliver:**
 
 **Multi-platform coverage**
+
 Access to multiple social networks through a single, unified service, eliminates the need for juggling various tools.
 Real-time monitoring
 No pre-extracted or cached data. Every request pulls fresh, real-time data, ensuring no delays or outdated information. You define what to extract and how often.

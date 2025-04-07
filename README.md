@@ -30,7 +30,7 @@ What data you can extract with Data365 API
 20+ data types, including the following information:
 
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/a6c3415e-7201-4f1c-8744-ad2621996dd7](https://github.com/user-attachments/assets/29c775f7-2763-4a23-9500-da59a1c545a6)" alt="image" />
+  <img src="https://github.com/user-attachments/assets/29c775f7-2763-4a23-9500-da59a1c545a6" alt="image" />
 </p>
 
 ![image](https://github.com/user-attachments/assets/29c775f7-2763-4a23-9500-da59a1c545a6)

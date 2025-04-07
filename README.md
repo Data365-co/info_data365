@@ -2,7 +2,7 @@
 What data you can extract with Data365 API
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/30df924c-a66b-48a2-9015-c9824f45a139" alt="image" />
+  <img src="https://github.com/user-attachments/assets/a2f29920-2c70-4e23-b793-6c8bc71870ea" alt="image" />
 </p>
 
 **What we deliver:**
@@ -32,9 +32,6 @@ What data you can extract with Data365 API
 <p align="center">
   <img src="https://github.com/user-attachments/assets/29c775f7-2763-4a23-9500-da59a1c545a6" alt="image" />
 </p>
-
-![image](https://github.com/user-attachments/assets/29c775f7-2763-4a23-9500-da59a1c545a6)
-
 
 **How the API Works – 3 Simple Steps**
 

@@ -44,7 +44,7 @@
    **Pending** – The data is being collected.  
    **Finished** – The update is complete, and the data is ready.  
    **Fail** – The data could not be collected (e.g., the profile does not exist or is not publicly available).  
-   **Canceled** – Запит був відмінений  
+   **Canceled** – Request was canceled.
    **Unknown** – The POST request to initiate the update was not received or not accepted.  
    `GET [API_Domain]/v1.1/tiktok/profile/username_example/update?&access_token`
 

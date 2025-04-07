@@ -75,6 +75,7 @@ What data you can extract with Data365 API
   "error": null,
   "status": "ok"
 }```
+</details>
 
 **Specific API endpoints will be provided after finalizing the details and completing client validation.**
 

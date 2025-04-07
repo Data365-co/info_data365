@@ -107,7 +107,7 @@ Include your API Key in your HTTP request. This step ensures that your requests 
 ### **Trusted by 200+ clients**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/954894d4-c693-4d51-8a26-caa7f43b4e11" alt="image" />
+  <img src="https://github.com/user-attachments/assets/87309835-5e9c-4882-9997-737e481d612f" alt="image" />
 </p>
 
 [Start Using Data365 API →](https://data365.co/contact)

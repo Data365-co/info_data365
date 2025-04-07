@@ -74,7 +74,8 @@ What data you can extract with Data365 API
   "_comment": "This sample shows how the API works with TikTok, but we also provide data from Instagram, Facebook, and Twitter. Social media rules change often, so contact us to learn what data is available. We provide any public info that doesn't require login.",
   "error": null,
   "status": "ok"
-}```
+}
+```
 </details>
 
 **Specific API endpoints will be provided after finalizing the details and completing client validation.**

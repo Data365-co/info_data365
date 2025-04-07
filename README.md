@@ -53,6 +53,30 @@ What data you can extract with Data365 API
    Once the update is finished, send a **GET request** to retrieve the latest profile data collected from the platform.
    `GET [API_Domain]/v1.1/tiktok/profile/username_example?access_token`
 
+```json
+{
+  "data": {
+    "username": "username_example",
+    "full_name": "John Black",
+    "created_time": "2019-08-24T14:15:22Z",
+    "avatar_url": "http://example.com",
+    "signature": "string",
+    "biography_link": "http://example.com",
+    "is_verified": true,
+    "follower_count": 13,
+    "following_count": 5,
+    "heart_count": 636,
+    "video_count": 799,
+    "digg_count": 333,
+    "profile_avatar_url": "https://example.com/tiktok/profiles/7010140047022769153/a98de66aaa520b962ffde155b9c4d16a.jpeg",
+    "profile_screenshot_url": "https://example.com/tiktok/profiles/6768298772725744642/page.png"
+  },
+  "_comment": "This sample shows how the API works with TikTok, but we also provide data from Instagram, Facebook, and Twitter. Social media rules change often, so contact us to learn what data is available. We provide any public info that doesn't require login.",
+  "error": null,
+  "status": "ok"
+}
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/77847f0a-6d20-492e-a617-86ee6b66c8e7" alt="image" />
 </p>

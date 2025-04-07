@@ -1,5 +1,4 @@
 # info_data365
-What data you can extract with Data365 API
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a2f29920-2c70-4e23-b793-6c8bc71870ea" alt="image" />
